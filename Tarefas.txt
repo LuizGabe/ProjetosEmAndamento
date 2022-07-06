@@ -1,0 +1,51 @@
+Orientações para desenvolver as atividades.
+
+Cada atividade vale 10 pontos total 30 pontos
+
+Pode ser criado grupos de até 4 integrantes
+
+Apenas um do grupo entrega
+
+entrega e apresentação no dia 13/07/2022
+
+deve ser criada uma pasta para cada atividade.
+
+é obrigatório utilizar css, html para apresentar as informações mais ‘bonitas’ e 'apresentáveis'
+
+
+
+1. Criar uma página com o nome completo e a foto de cada um dos integrantes
+
+
+2. Criar uma página para controlar uma lista de compras. 
+
+Consiste em um campo para adicionar itens na lista.
+
+com a possibilidade de editar, excluir 
+
+marcar que já pegou o item. 
+
+Essa lista deve ser salva no LocalStorage.
+
+
+
+3. Criar uma página para controlar a lista de vídeos do youtube para estudar. 
+
+Consiste no cadastro de um vídeo do youtube (link) e uma descrição. 
+
+Pode ser editado o link do vídeo e a descrição
+
+pode ser excluído.
+
+deve ter uma opção para marcar que já assisti o video
+
+Essa lista deve ser salva no LocalStorage.
+
+
+4. Criar uma página para controlar uma lista de produtos vendidos por um bar, como por exemplo: refri, cerveja, pizza, porção de fritas. 
+
+o produto tem um nome e preço e imagem
+
+o produto pode ser editado e excluído.
+
+essa lista deve ser salva no local storage
