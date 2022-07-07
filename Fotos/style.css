@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+img {
+    width: 200px;
+    height: 266px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+#pessoas {
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.pessoa {
+    align-items: center;
+    flex-direction: column;
+    display: inline-block;
+    margin: 50px;
+    border: 10px blue;
+}
+.zoom{
+    transition: all .5s;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+}
+img.zoom:hover {
+    transform : scale(1.1);
+    -moz-transform : scale(1.1);
+    -webkit-transform : scale(1.1);
+    -o-transform : scale(1.1);
+    -ms-transform : scale(1.1);
+}
+
+
+label {
+    color:white;
+}
